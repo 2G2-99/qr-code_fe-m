@@ -28,8 +28,8 @@ Screenshot in Mobile (375px) viewport
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-6HNFWNGX_9)
+- Live Site URL: [Add live site URL here](https://2g2-99.github.io/qr-code_fe-m/)
 
 ## My process
 
